@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: What's Going On
 permalink: /now/
 ---
 
