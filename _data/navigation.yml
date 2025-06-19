@@ -1,6 +1,10 @@
-- name: Home
-  link: /
-- name: About
-  link: /about/
-- name: Portfolio
-  link: /portfolio/
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Images
+  url: /images/
+- title: Words
+  url: /words/
+- title: Now
+  url: /now/
