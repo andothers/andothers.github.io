@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Images
+title: 
 permalink: /images/
 ---
 
