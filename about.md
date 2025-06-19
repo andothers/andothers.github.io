@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About Me
 
-### More Information
+I’m An, originally from Vietnam, now based in Canada. My background is in Geography and I’m passionate about storytelling through maps, photos, and writing.
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time, I enjoy football (Liverpool), photography with my trusty X-E1, and spending time with my wife and child.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contact me at annguyenducthanh@gmail.com
