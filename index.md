@@ -4,7 +4,6 @@ title: Home
 permalink: /
 ---
 
-# Welcome to My Site
 
-Hi, I’m An. This is my personal space where I share my photography, writing, and current thoughts. Feel free to explore the images, words, and updates.
+Hi, I’m An. I make maps and other things. This is my personal space where I share my other things.
 
