@@ -34,7 +34,7 @@ The effects of medias and the news on our mental health
 
 # Enjoying:
 
-Playing soccer again - at least once a wekk
+Playing football again - at least once a wekk
 
 Trying new Vietnamese recipes
 
