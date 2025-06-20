@@ -9,7 +9,7 @@ Last updated on June 20th 2025
 
 # Reading:
 
-Cowboy Graves (Roberto Bolano) - As expected, addition to the labyrinth of Bolano. The titular novella  was a delightful read, although I’m struggling to get through the second story.
+Cowboy Graves (Roberto Bolano) - As expected. A fine addition to the labyrinth of Bolano. The titular novella  was a delightful read, although I’m struggling to get through the second story.
 
 Inverting the Pyramid (Jonathan Wilson) - A good fix for my Football Manager crave.
 
