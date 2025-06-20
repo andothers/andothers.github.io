@@ -17,25 +17,27 @@ More on Goodreads
 
 # Heavy Rotation:
 
-Love Takes Miles (Cameron Winter) - Good for walking
+Love Takes Miles (Cameron Winter) - Good for walking.
 
 # Working on:
 
-Personal mapping projects - a porfolio website coming soon
+Personal mapping projects - a porfolio website coming soon.
 
-Preparation to get a cat - mostly mental!
+Turning our balcony into a garden - missing some flowers and plants.
+
+Preparing to get a cat - mostly mental!
 
 
 # Thinking a lot about:
 
-What it means to be a "good father"
+What it means to be a "good father".
 
-The effects of medias and the news on our mental health
+The effects of medias and the news on our mental health.
 
 # Enjoying:
 
-Playing football again - at least once a week
+Playing football again - at least once a week.
 
-Trying new Vietnamese recipes
+Trying new Vietnamese recipes.
 
-Seeing V (my daughter) growing everyday
+Seeing V (my daughter) growing everyday.
