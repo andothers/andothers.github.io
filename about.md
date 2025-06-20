@@ -11,7 +11,7 @@ permalink: /about/
   <div style="margin-left: 2rem; margin-top: 1rem;">
     <p>
       Hello, I’m An, originally from Vietnam, now based in Canada. My background is in Geography, and I’m passionate about storytelling.<br><br>
-      In my free time, I enjoy football (Liverpool), photography (with my trusty X-E1), and spending time with my bosses — my wife and daughter.
+      In my free time, I enjoy watching football (Liverpool F.C), taking photographs (with my trusty X-E1), and spending time with my bosses (my wife and daughter).
     </p>
   </div>
 </div>
