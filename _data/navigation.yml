@@ -1,8 +1,10 @@
 - title: About
   url: /about/
-- title: Images
-  url: /images/
-- title: Words
-  url: /words/
+- title: Maps
+  URL: /maps/
+#- title: Images
+# url: /images/
+#- title: Words
+#  url: /words/
 - title: Now
   url: /now/
