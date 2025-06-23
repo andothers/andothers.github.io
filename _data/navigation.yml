@@ -1,9 +1,9 @@
-- title: About
-  url: /about/
+#- title: About
+ # url: /about/
 - title: Maps
   url: /maps/
-#- title: Images
-# url: /images/
+- title: Images
+  url: /images/
 #- title: Words
 #  url: /words/
 - title: Now
